@@ -6,8 +6,8 @@
 
 With skills in:
 
-* **Advanced Statistical modeling** (regression analysis, time series, generalized linear models (GLMs).
-* **Machine Learning** (supervised/unsupervised learning, ensemble methods).
+* **Advanced Statistical modeling** regression analysis, time series, generalized linear models (GLMs).
+* **Machine Learning** supervised/unsupervised learning and ensemble methods.
 * **Statistical consulting** client relations, storytelling, and communication.
 * **Programming** proficiency in Python and R for data analysis, visualization, and mining.
 
