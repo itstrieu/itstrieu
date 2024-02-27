@@ -12,9 +12,9 @@ With skills in:
 * **Statistical consulting** client relations, storytelling, and communication.
 * **Programming** proficiency in Python and R for data analysis, visualization, and mining.
 
-During my over 5 years with Viet Tan, I championed human rights and empowered Vietnamese people to push back against restrictions on freedom. My BA in Asian Studies, specializing in Chinese political history, deepened my understanding of China's political landscape, laying the groundwork for my work with Viet Tan.
+My interest in data science was ignited by my over 5 years of work with [Viet Tan](https://viettan.org/en/), where I witnessed firsthand the potent combination of technology and human rights advocacy. Championing human rights and leveraging technology to empower Vietnamese individuals to resist restrictions on freedom fueled my passion for data-driven solutions. 
 
-My interest in data science surged through my research on Vietnam. I further honed my statistical modeling, R, and Python skills while studying at Texas A&M University (go Aggies!).
+This experience propelled me to pursue advanced studies at Texas A&M University (go Aggies!), where I aimed to deepen my theoretical understanding and cultivate practical expertise crucial for advancing my skills in data science.
 
 I am excited to merge my expertise with my passion for human rights. Let's connect and collaborate!
 
