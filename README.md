@@ -7,7 +7,6 @@
 With skills in:
 
 * **Advanced Statistical modeling** (regression analysis, time series, generalized linear models (GLMs).
-* **Data management** (SQL, NoSQL), big data tools (HPC clusters, Git), R, and Python.
 * **Machine Learning** (supervised/unsupervised learning, ensemble methods).
 * **Statistical consulting** client relations, storytelling, and communication.
 * **Programming** proficiency in Python and R for data analysis, visualization, and mining.
