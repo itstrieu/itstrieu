@@ -15,12 +15,12 @@
 | **Statistical Consulting**      | Client relations, storytelling, and communication.                                            |
 
 
-My interest in data science was ignited by over five years of work with Viet Tan, during which I witnessed firsthand the potent combination of technology and human rights advocacy. Championing human rights and leveraging technology to empower Vietnamese individuals to resist restrictions on freedom fueled my passion for data-driven solutions. Additionally, working as the editor of Loa, a Viet Tan podcast, and learning about data journalism further contributed to my blossoming interest.
+My passion for data science was sparked during my extensive five-year tenure with Viet Tan, where I witnessed the transformative synergy of technology and human rights advocacy firsthand. Through championing human rights and leveraging technology to empower Vietnamese individuals against restrictions on freedom, I developed a deep-seated commitment to data-driven solutions. My role as the editor of Loa, a Viet Tan podcast, and my exploration of data journalism further nurtured this passion.
 
-This experience propelled me to pursue advanced studies at Texas A&M University (go Aggies!), where I earned an M.S. in Statistics to deepen my theoretical understanding and cultivate practical expertise crucial for advancing my skills in data science.
+This profound experience motivated me to pursue advanced studies at Texas A&M University, where I earned an M.S. in Statistics. This academic journey deepened my theoretical foundation and cultivated practical expertise essential for advancing in data science.
 
-In addition to my academic and professional background, I have made significant contributions as a project manager at Viet Tan, leading advocacy campaigns and training sessions. As the founder of the SGV Data Science Group and LA Tech’s AI Book Club, I promote collaboration and innovation within the tech community.
+Beyond academia, my leadership as a project manager at Viet Tan involved spearheading advocacy campaigns and conducting impactful training sessions. As the founder of the SGV Data Science Group and LA Tech’s AI Book Club, I foster collaboration and innovation within the tech community.
 
-Fluent in English and Vietnamese, with conversational Mandarin, I am equipped to navigate diverse environments in my pursuit of impactful data solutions.
+Fluent in English and Vietnamese, with conversational Mandarin, I navigate diverse environments adeptly in pursuit of impactful data solutions.
 
-I am excited to merge my expertise with my passion for human rights. Let's connect and collaborate!
+I am eager to integrate my expertise with my passion for human rights. Let's connect and collaborate!
