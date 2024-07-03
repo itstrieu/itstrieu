@@ -7,12 +7,19 @@
 With skills in:
 
 **Programming:** Proficiency in Python and R for data analysis, visualization, and mining.
+
 **Advanced Statistical Modeling:** Regression analysis, time series, generalized linear models (GLMs).
+
 **Machine Learning:** Supervised/unsupervised learning and ensemble methods.
+
 **Data Visualization:** Creating insightful visualizations and dynamic dashboards using Python (Matplotlib, Seaborn), R (ggplot2, Shiny), and Tableau.
+
 **Data Wrangling:** Cleaning and transforming data for analysis.
+
 **Project Management:** Leading teams, organizing tasks, and meeting deadlines.
+
 **Statistical Consulting:** Client relations, storytelling, and communication.
+
 
 My interest in data science was ignited by over five years of work with Viet Tan, during which I witnessed firsthand the potent combination of technology and human rights advocacy. Championing human rights and leveraging technology to empower Vietnamese individuals to resist restrictions on freedom fueled my passion for data-driven solutions. Additionally, working as the editor of Loa, a Viet Tan podcast, and learning about data journalism further contributed to my blossoming interest.
 
