@@ -4,8 +4,6 @@
 
 ![image](https://github.com/itstrieu/itstrieu/assets/38932563/8ad12bc2-3401-45a2-be48-d833c13d3936)
 
-With skills in:
-
 | **Skill Area**                  | **Details**                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------------------|
 | **Programming Languages**       | Proficiency in Python and R for data analysis, visualization, and mining.                     |
