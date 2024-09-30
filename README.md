@@ -20,6 +20,6 @@
 
 I am a data scientist with a passion for leveraging technology for social impact and a commitment to staying updated with the latest trends and advancements in machine learning and artificial intelligence. 
 
-With an M.S. in Statistics from Texas A&M University, I bring expertise in statistical modeling, machine learning techniques, and data visualization. I’m also experienced in data wrangling and testing methodologies, including unittest and pytest. As the founder of the SGV Data Science Group and the LA Tech AI Book Club, I foster collaboration and innovation within the tech community.
+With an M.S. in Statistics from Texas A&M University, I bring expertise in statistical modeling, machine learning techniques, and data visualization. I’m also experienced in data wrangling and testing methodologies, including unittest and pytest. As the founder of the [SGV Data Science Group](https://www.meetup.com/san-gabriel-valley-data-science-group/) and the [LA Tech AI Book Club](https://www.meetup.com/la-tech-meetups/), I foster collaboration and innovation within the tech community.
 
 Currently, I’m exploring machine learning engineering, AI ethics, and deep learning applications. Fluent in English and Vietnamese, with conversational Mandarin, I’m eager to connect and collaborate on impactful projects.
