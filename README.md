@@ -1,6 +1,6 @@
 <h1> Hi! I'm Kathy </h1>
 
-*a dynamic MS Statistics graduate with a one-of-a-kind journey* 
+*Proactive Data Scientist dedicated to building community and passionate about AI innovation* 
 
 ![image](https://github.com/itstrieu/itstrieu/assets/38932563/8ad12bc2-3401-45a2-be48-d833c13d3936)
 
