@@ -15,12 +15,8 @@
 | **Statistical Consulting**      | Client relations, storytelling, and communication.                                            |
 
 
-My passion for data science was sparked during my extensive five-year tenure with Viet Tan, where I witnessed the transformative synergy of technology and human rights advocacy firsthand. Through championing human rights and leveraging technology to empower Vietnamese individuals against restrictions on freedom, I developed a deep-seated commitment to data-driven solutions. My role as the editor of Loa, a Viet Tan podcast, and my exploration of data journalism further nurtured this passion.
+I am a data scientist passionate about leveraging technology for social impact, with a focus on machine learning and deep learning. My commitment to data-driven solutions began during my five years with Viet Tan, where I advocated for human rights and witnessed the power of technology to effect change.
 
-This profound experience motivated me to pursue advanced studies at Texas A&M University, where I earned an M.S. in Statistics. This academic journey deepened my theoretical foundation and cultivated practical expertise essential for advancing in data science.
+With an M.S. in Statistics from Texas A&M University, I bring expertise in statistical modeling, machine learning techniques, and data visualization. I’m also experienced in data wrangling and testing methodologies, including unittest and pytest. As the founder of the SGV Data Science Group and the LA Tech AI Book Club, I foster collaboration and innovation within the tech community.
 
-Beyond academia, my leadership as a project manager at Viet Tan involved spearheading advocacy campaigns and conducting impactful training sessions. As the founder of the SGV Data Science Group and LA Tech’s AI Book Club, I foster collaboration and innovation within the tech community.
-
-Fluent in English and Vietnamese, with conversational Mandarin, I navigate diverse environments adeptly in pursuit of impactful data solutions.
-
-I am eager to integrate my expertise with my passion for human rights. Let's connect and collaborate!
+Currently, I’m exploring machine learning engineering, AI ethics, and deep learning applications. Fluent in English and Vietnamese, with conversational Mandarin, I’m eager to connect and collaborate on impactful projects.
