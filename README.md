@@ -6,16 +6,19 @@
 
 | **Skill Area**                  | **Details**                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------------------|
-| **Programming Languages**       | Proficiency in Python and R for data analysis, visualization, and mining.                     |
+| **Programming Languages**       | Proficient in Python and R for developing machine learning algorithms and models.                     |
 | **Advanced Statistical Modeling** | Regression analysis, time series, generalized linear models (GLMs).                           |
-| **Machine Learning Techniques** | Supervised/unsupervised learning and ensemble methods.                                        |
+| **Machine Learning Techniques** | Understanding of supervised, unsupervised, and reinforcement learning algorithms (e.g., regression, clustering, decision trees, SVMs, neural networks).                                        |
+| **Deep Learning Frameworks** | Experience with frameworks like TensorFlow, PyTorch, and Keras for building and deploying deep learning models.|
 | **Data Visualization**          | Creating insightful visualizations and dynamic dashboards using Python (Matplotlib, Seaborn), R (ggplot2, Shiny), and Tableau. |
-| **Data Wrangling**              | Cleaning and transforming data for analysis.                                                  |
+| **Data Preprocessing**              | Skills in data cleaning, normalization, transformation, and feature engineering to prepare data for modeling.                                             |
+| **Model Evaluation & Tuning** | Proficiency in model evaluation metrics (e.g., accuracy, precision, recall, F1 score) and hyperparameter tuning techniques (e.g., grid search, random search).|
 | **Project Management**          | Leading teams, organizing tasks, and meeting deadlines.                                       |
 | **Statistical Consulting**      | Client relations, storytelling, and communication.                                            |
+| **Software Development Skills**| Working knowledge of OOP principles to build scalable and maintainable code. |
 
 
-I am a data scientist passionate about leveraging technology for social impact, with a focus on machine learning and deep learning. My commitment to data-driven solutions began during my five years with Viet Tan, where I advocated for human rights and witnessed the power of technology to effect change.
+I am a data scientist with a passion for leveraging technology for social impact and a commitment to staying updated with the latest trends and advancements in machine learning and artificial intelligence. 
 
 With an M.S. in Statistics from Texas A&M University, I bring expertise in statistical modeling, machine learning techniques, and data visualization. I’m also experienced in data wrangling and testing methodologies, including unittest and pytest. As the founder of the SGV Data Science Group and the LA Tech AI Book Club, I foster collaboration and innovation within the tech community.
 
